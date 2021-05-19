@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #e96b56;
+  color: #68BB49;
   text-decoration: none;
 }
 
 a:hover {
-  color: #e6573f;
+  color: #68BB49;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #e96b56;
+  background: #68BB49;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #ee8b7a;
+  background: #68BB49;
   color: #fff;
 }
 
@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #topbar .contact-info i {
   font-style: normal;
-  color: #e96b56;
+  color: #68BB49;
 }
 
 #topbar .contact-info i a, #topbar .contact-info i span {
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .contact-info i a:hover {
-  color: #e96b56;
+  color: #68BB49;
 }
 
 #topbar .social-links a {
@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  border-left: 8px solid #e96b56;
+  border-left: 8px solid #68BB49;
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
@@ -179,11 +179,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .navbar .getstarted {
-  background: #e96b56;
+  background: #68BB49;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -192,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar .getstarted:hover {
   color: #fff;
-  background: #ec7f6d;
+  background: #68BB49;
 }
 
 .navbar .dropdown ul {
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .navbar .dropdown:hover > ul {
@@ -320,7 +320,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .navbar-mobile .getstarted {
@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -468,7 +468,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-indicators li {
   cursor: pointer;
-  background: #e96b56;
+  background: #68BB49;
   overflow: hidden;
   border: 0;
   width: 12px;
@@ -496,13 +496,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #e96b56;
-  background: #e96b56;
+  border: 2px solid #68BB49;
+  background: #68BB49;
 }
 
 #hero .btn-get-started:hover {
   background: transparent;
-  color: #e96b56;
+  color: #68BB49;
   text-decoration: none;
 }
 
@@ -567,7 +567,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #e96b56;
+  background: #68BB49;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -630,7 +630,7 @@ section {
 }
 
 .featured .icon-box i {
-  color: #e96b56;
+  color: #68BB49;
   font-size: 42px;
   margin-bottom: 15px;
   display: block;
@@ -656,7 +656,7 @@ section {
 }
 
 .featured .icon-box:hover {
-  background: #e96b56;
+  background: #68BB49;
 }
 
 .featured .icon-box:hover i, .featured .icon-box:hover h3 a, .featured .icon-box:hover p {
@@ -684,7 +684,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .about .content p:last-child {
@@ -705,7 +705,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #e96b56;
+  background: #68BB49;
   border-radius: 5px;
   transition: all .3s ease-out 0s;
   display: flex;
@@ -750,8 +750,8 @@ section {
 }
 
 .services .icon-box:hover {
-  background: #e96b56;
-  border-color: #e96b56;
+  background: #68BB49;
+  border-color: #68BB49;
 }
 
 .services .icon-box:hover .icon {
@@ -759,11 +759,11 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #ef9383;
+  background: #68BB49;
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
@@ -783,11 +783,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e96b56;
+  border: 1px solid #68BB49;
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e96b56;
+  background-color: #68BB49;
 }
 
 .clients .swiper-slide img {
@@ -813,7 +813,7 @@ section {
 .counts .count-box i {
   display: block;
   font-size: 30px;
-  color: #e96b56;
+  color: #68BB49;
   float: left;
   line-height: 0;
 }
@@ -927,7 +927,7 @@ section {
 .skills .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .skills .content p:last-child {
@@ -999,7 +999,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #e96b56;
+  background: #68BB49;
   color: #fff;
 }
 
@@ -1100,7 +1100,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #e96b56;
+  color: #68BB49;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -1146,11 +1146,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e96b56;
+  border: 1px solid #68BB49;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e96b56;
+  background-color: #68BB49;
 }
 
 .portfolio-details .portfolio-info {
@@ -1213,7 +1213,7 @@ section {
 
 .pricing h4 {
   font-size: 46px;
-  color: #e96b56;
+  color: #68BB49;
   font-weight: 400;
   font-family: "Open Sans", sans-serif;
   margin-bottom: 25px;
