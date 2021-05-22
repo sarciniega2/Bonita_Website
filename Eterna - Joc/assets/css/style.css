@@ -781,8 +781,8 @@ section {
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
+  width: 8px;
+  height: 8px;
   background-color: #fff;
   opacity: 1;
   border: 1px solid #68BB49;
@@ -795,6 +795,9 @@ section {
 .clients .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
+  height: 50px;
+  width: 200px;
+  margin: 0px;
   filter: grayscale(100);
 }
 
